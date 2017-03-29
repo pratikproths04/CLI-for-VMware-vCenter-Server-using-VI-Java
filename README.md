@@ -33,11 +33,3 @@ To get started, check out the 5 minutes tutorial at: http://vijava.sf.net.
 
 WHERE TO DOWNLOAD THE LATEST RELEASE? 
 http://vijava.sf.net
-
-WHERE CAN I GET HELP?
-Project Forum: https://sourceforge.net/forum/forum.php?forum_id=826592
-File a bug: https://sourceforge.net/tracker/?group_id=228007
-Blog: http://www.doublecloud.org
-
-COPYRIGHT & LICENSE:
-BSD. See the License.txt file for details
